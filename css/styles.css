@@ -219,6 +219,7 @@ h2{
 @media screen and (min-width:701px){
     nav img{
         width: 20px;
-        display: none;
+        visibility: hidden;
+
     }
 }
